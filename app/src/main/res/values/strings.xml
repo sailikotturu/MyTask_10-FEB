@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTask_10-FEB</string>
+    <string name="cancel_toast">cancelled</string>
+    <string name="error_toast">Something went wrong!!</string>
+</resources>
